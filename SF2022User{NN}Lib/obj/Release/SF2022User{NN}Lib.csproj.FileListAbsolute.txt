@@ -1,0 +1,12 @@
+C:\Users\rizen7\source\repos\Prielbrusye\SF2022User{NN}Lib\bin\Release\SF2022User{NN}Lib.dll
+C:\Users\rizen7\source\repos\Prielbrusye\SF2022User{NN}Lib\bin\Release\SF2022User{NN}Lib.pdb
+C:\Users\rizen7\source\repos\Prielbrusye\SF2022User{NN}Lib\obj\Release\SF2022User{NN}Lib.csproj.AssemblyReference.cache
+C:\Users\rizen7\source\repos\Prielbrusye\SF2022User{NN}Lib\obj\Release\SF2022User{NN}Lib.csproj.CoreCompileInputs.cache
+C:\Users\rizen7\source\repos\Prielbrusye\SF2022User{NN}Lib\obj\Release\SF2022User{NN}Lib.dll
+C:\Users\rizen7\source\repos\Prielbrusye\SF2022User{NN}Lib\obj\Release\SF2022User{NN}Lib.pdb
+C:\Users\Соня\source\repos\Prielbrusye\SF2022User{NN}Lib\bin\Release\SF2022User{NN}Lib.dll
+C:\Users\Соня\source\repos\Prielbrusye\SF2022User{NN}Lib\bin\Release\SF2022User{NN}Lib.pdb
+C:\Users\Соня\source\repos\Prielbrusye\SF2022User{NN}Lib\obj\Release\SF2022User{NN}Lib.csproj.AssemblyReference.cache
+C:\Users\Соня\source\repos\Prielbrusye\SF2022User{NN}Lib\obj\Release\SF2022User{NN}Lib.csproj.CoreCompileInputs.cache
+C:\Users\Соня\source\repos\Prielbrusye\SF2022User{NN}Lib\obj\Release\SF2022User{NN}Lib.dll
+C:\Users\Соня\source\repos\Prielbrusye\SF2022User{NN}Lib\obj\Release\SF2022User{NN}Lib.pdb

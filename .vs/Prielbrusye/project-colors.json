@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91e44666-38fd-44e6-adc1-e53e1a8ee096": {
+      "ProjectGuid": "91e44666-38fd-44e6-adc1-e53e1a8ee096",
+      "DisplayName": "Prielbrusye",
+      "ColorIndex": 0
+    },
+    "f5640494-ceb7-414b-8343-b02e59ef0693": {
+      "ProjectGuid": "f5640494-ceb7-414b-8343-b02e59ef0693",
+      "DisplayName": "SF2022User{NN}Lib",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

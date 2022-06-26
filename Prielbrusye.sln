@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prielbrusye", "Prielbrusye\Prielbrusye.csproj", "{91E44666-38FD-44E6-ADC1-E53E1A8EE096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF2022User{NN}Lib", "SF2022User{NN}Lib\SF2022User{NN}Lib.csproj", "{F5640494-CEB7-414B-8343-B02E59EF0693}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PrielbrusyeApp", "PrielbrusyeApp\PrielbrusyeApp.vdproj", "{AED4C90E-8A09-4F7C-9143-D95B66FCF3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E44666-38FD-44E6-ADC1-E53E1A8EE096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E44666-38FD-44E6-ADC1-E53E1A8EE096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E44666-38FD-44E6-ADC1-E53E1A8EE096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E44666-38FD-44E6-ADC1-E53E1A8EE096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5640494-CEB7-414B-8343-B02E59EF0693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5640494-CEB7-414B-8343-B02E59EF0693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5640494-CEB7-414B-8343-B02E59EF0693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5640494-CEB7-414B-8343-B02E59EF0693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED4C90E-8A09-4F7C-9143-D95B66FCF3D4}.Debug|Any CPU.ActiveCfg = Debug
+		{AED4C90E-8A09-4F7C-9143-D95B66FCF3D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F41993-D1FC-4D52-B5D9-E9FB44F77976}
+	EndGlobalSection
+EndGlobal
